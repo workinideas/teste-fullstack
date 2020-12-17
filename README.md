@@ -2,7 +2,7 @@
 
 O objetivo deste desafio é avaliar o domínio do candidato no desenvolvimento fullstack. Será avaliado boas práticas de code style, organização do projeto, criação de APIs, conhecimento de frameworks e tecnologias.
 
-Quando finalizar o teste, publique tudo no seu [Github](https://github.com/workinideas/teste-fullstack/tree/main/layout) e envie um email com o título `[Teste Fullstack] Finalizado` junto com sua pretensão salarial para contato@wi-id.com
+Quando finalizar o teste, publique tudo no seu [Github](https://github.com) e envie um email com o título `[Teste Fullstack] Finalizado` junto com sua pretensão salarial para contato@wi-id.com
 
 ## Missão backend
 
@@ -69,7 +69,7 @@ Apaga o veículo
 
 ## Missão frontend
 
-Desenvolver uma **UI (User Interface)** de acordo com o desenho que está na pasta [layout](https://github.com/)
+Desenvolver uma **UI (User Interface)** de acordo com o desenho que está na pasta [layout](https://github.com/workinideas/teste-fullstack/tree/main/layout)
 
 ### Especificação
 - Faça Interface utilizado ReactJS ou VueJS (Bônus :star:)
