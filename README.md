@@ -72,7 +72,7 @@ Apaga o veículo
 Desenvolver uma **UI (User Interface)** de acordo com o desenho que está na pasta [layout](https://github.com/)
 
 ### Especificação
-- Faça Interface utilizado ReactJs ou Vuejs (Bônus :star:)
+- Faça Interface utilizado ReactJS ou VueJS (Bônus :star:)
 - Consumir **API** criada acima
 - Criar uma tela que tenha...
     - Listagem de veículos
